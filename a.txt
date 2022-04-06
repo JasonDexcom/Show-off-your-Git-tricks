@@ -1,3 +1,5 @@
+fix bug
+
 qux
 foo
 
@@ -54,4 +56,3 @@ bar
 baz
 
 qux
-
