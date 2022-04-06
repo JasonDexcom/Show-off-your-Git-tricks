@@ -1,3 +1,5 @@
+fix bug
+
 qux
 foo
 
@@ -47,3 +49,10 @@ baz
 
 qux
 
+foo
+
+bar
+
+baz
+
+qux
