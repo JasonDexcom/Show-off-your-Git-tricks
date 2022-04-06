@@ -27,3 +27,5 @@ foo
 
 bar
 
+baz
+
